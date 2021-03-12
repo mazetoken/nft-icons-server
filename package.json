@@ -6,8 +6,11 @@
     "scripts": {
         "start": "node server.js"
     },
-    "keywords": [],
-    "author": "B_S_Z",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mazetoken/nft-icons-server.git"
+    },
+    "author": "B_S_Z, Blockparty-sh",
     "dependencies": {
         "bignumber.js": "^9.0.1",
         "dotenv": "^8.2.0",
