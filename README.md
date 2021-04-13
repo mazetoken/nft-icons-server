@@ -2,8 +2,9 @@
 
 https://mazetoken.github.io
 https://t.me/mazeslptoken
+https://zombies.onuniverse.com
 
-This app is used to host ZOMBIE SLP NFT icons on https://simpleledger.info
+This app is used to host ZOMBIE SLP NFT icons
 
 -------------------------------
 

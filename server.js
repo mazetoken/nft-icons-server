@@ -7,7 +7,7 @@ const BN = require('bignumber.js');
 
 function getTokenImg(tokenid) {
     const bn = new BN(`0x${tokenid}`, 16);
-    return `tokenid${parseInt(bn.mod(25), 10)+1}.png`;
+    return `tokenid${parseInt(bn.mod(50), 10)+1}.png`;
 }
 
 const app = express();
